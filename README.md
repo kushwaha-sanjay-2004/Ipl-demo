@@ -1,2 +1,2 @@
 # Ipl-demo
-This is my demo for Git &amp; Github class
+This is a demo for Git &amp; Github class.
